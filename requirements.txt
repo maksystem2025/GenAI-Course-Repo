@@ -1,0 +1,44 @@
+# basics
+numpy
+pandas
+matplotlib
+seaborn
+flask
+
+
+# jupyter notebook
+ipykernel
+
+# online hosting
+memory_profiler
+streamlit
+
+# machine learning libraries
+scikit-learn
+
+#langchain
+langchain
+
+# to import all in.env
+python-dotenv
+# installing
+langchain_community 
+pypdf  # for pdf scraping
+bs4   # for webscrapting too
+beautifulsoup4
+arxiv
+pymupdf
+wikipedia
+
+# spiting characters
+langchain_text_splitters
+langchain-openai
+
+
+#embedding-- 
+python-dotenv # will call all my env packagaes
+chromadb 
+
+
+
+# pip install -r requirements.txt
